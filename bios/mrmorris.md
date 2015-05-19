@@ -1,5 +1,5 @@
 Ryan Morris
 
 * A human
-* Not a dog
+* Not a dog :dog:
 * Has fingers
