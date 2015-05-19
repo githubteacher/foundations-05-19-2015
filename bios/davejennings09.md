@@ -6,3 +6,5 @@
 
 ###Favorite Restaraunt 
 - Taco Bell
+
+:taco:  :bell:
