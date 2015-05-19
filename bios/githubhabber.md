@@ -5,3 +5,4 @@
 
 ### Favorite Restaurant
 * Wilde Zwijnen
+* Located in Amsterdam
