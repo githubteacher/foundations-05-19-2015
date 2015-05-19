@@ -4,4 +4,4 @@
 - Is great with Git and Version Control in general.
 
 ### Favorite Vacation Spot
-- Portland, Maine
+- Portland, Maine (but mostly in the spring and summer) :smiley:
