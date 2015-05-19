@@ -1,4 +1,4 @@
 ## Matt Oswalt
  - Network Software Engineer
- - Loves breaking things
+ - Loves breaking things with a :hammer:
  - Space nerd
