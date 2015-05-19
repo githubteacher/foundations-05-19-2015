@@ -5,3 +5,4 @@
 
 ### Favorite Restaurant
 - Fast Eddies is the best places to eat ever.
+- Bora Bora
