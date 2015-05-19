@@ -16,7 +16,7 @@ This class is the first in a three part series. If you prefer to work on the com
 
 Here are the activities you will complete in this class. If you get stuck or have any questions, please refer to the documents linked here for more information.
 
-1. Comment on [this issue](https://github.com/githubteacher/foundations-05-19-2015/issues/3) with one thing you are hoping to learn in todays training.
+1. Comment on [this issue](https://github.com/githubteacher/foundations-05-19-2015/issues/1) with one thing you are hoping to learn in todays training.
 2. Create an issue to add your bio to the class site. [Instructions](https://github.com/githubteacher/foundations-05-19-2015/blob/master/instructions/create-issue.md)
 3. Add a bio to the class site. [Instructions](https://github.com/githubteacher/foundations-05-19-2015/blob/master/instructions/add-file-on-github.md)
 4. Comment on a Pull Request.
