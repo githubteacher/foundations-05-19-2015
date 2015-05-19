@@ -6,4 +6,4 @@
 
 ## Favorite Restaurant
 
-* Double Windsor
+* Double Windsor (Burgers)
