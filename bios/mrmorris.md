@@ -4,6 +4,6 @@
 * Not a dog :dog:
 * Has fingers :hand:
 
-## Favorite Restaurant
+## Favorite Vacation Spot
 
-* Double Windsor (Burgers)
+* Singapore
